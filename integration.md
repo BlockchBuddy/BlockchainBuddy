@@ -3,7 +3,7 @@ This document describes how a third party wallet/exchange can perform an exchang
 with kyber network smart contract.
 The api we describe should be viewed at this point only as a reference.
 Changes are still expected before the mainnet launch.
-
+ 
 A wallet/exchange service interacts with the contract in three ways:
 1. Rate query: queries the offered price of, e.g., GNO to ETH conversion.
 2. Trade execution: e.g., convert X GNO to Y ETH.
